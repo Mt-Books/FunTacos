@@ -11,7 +11,7 @@
  * As long as the row number and the column number are within the appropriate index
  * compare the current position to the target number:
  *    - If current number > target, you move down to the next number (aka row++;)
- *    - Otherwise curren number < target, you move left to the next number (aka col--;)
+ *    - Otherwise current number < target, you move left to the next number (aka col--;)
  *    - If it isn't > or <, then the current number must be equal to target. Return the current index (row, col)
  * If at any point the index for row or column gets out of the range of the matrix,
  * the while loop ends and (-1,-1) is returned, meaning that the target is not in the matrix.
