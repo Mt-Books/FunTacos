@@ -1,5 +1,5 @@
 # Title
-Created by Fun Tacos (Tania Cao, Frank Chen, Maxwell Vale)
+Created by: Fun Tacos (Tania Cao, Frank Chen, Maxwell Vale)
 
 ## Hypothesis
 
