@@ -24,8 +24,8 @@
 public class MatrixFinder {
     int[][] matrix;
     
-    // overwrite retString to display the matrix
-    public static String retString() {
+    // overwrite default toString to display the matrix
+    public static String toString() {
 	String s = "";
 	for (int r = 0; r < matrix.length; r++) {
 	    for (int c = 0; j < matrix[0].length; c++) {
