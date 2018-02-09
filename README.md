@@ -1,19 +1,20 @@
-# Title
+## Title
 Created by: Fun Tacos (Tania Cao, Frank Chen, Maxwell Vale)
 
-## Hypothesis
+### Hypothesis
 The execution-time to find the value of the worst case scenario increases as the size of the matrix increases.
 
-## Background
-In the matrix, the smallest number is located at the top left. The values of the numbers to the right and bottom of each number increases.
+### Background
+In the matrix, the smallest number is located at the top left. The values of the numbers to the right and bottom as each number increases. The worst case scenario in all matrices, no matter the size, would be located at the bottom left of the matrix.
 
-## Experiment
-The worst case scenario in all matrixes, no matter what size, is located at the bottom right of the matrix. To show that the execution-time increases as the size of the matrix increases, we are going to create 50 matrixes with the size ranging between 1 and 10,000. For each of the matrixes, we will be conducting 20 trials and then finding the average of each matrix's data.
+### Experiment
+The algorithm we've developed would execute the following...
+* To show that the execution-time increases as the size of the matrix increases, we are going to create 100 matrices with the size ranging between 100 and 10,000.
+* For each of the matrices, we will be conducting 50 trials, and then finding the average of their execution-time.
+*
 
-## Results
+### Results
 
 
-## Conclusion
+### Conclusion
 
-
-## Analysis
