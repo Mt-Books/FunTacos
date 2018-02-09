@@ -9,9 +9,11 @@ In the matrix, the smallest number is located at the top left. The values of the
 
 ### Experiment
 The algorithm we've developed would execute the following...
-* To show that the execution-time increases as the size of the matrix increases, we are going to create 100 matrices with the size ranging between 100 and 10,000.
-* For each of the matrices, we will be conducting 50 trials, and then finding the average of their execution-time.
-*
+* Create a matrix of size n x n, where n starts at 100.
+* Populate the matrix and run 50 trials of the locate method.
+* Record the time per trial and find the average of all 50 trials.
+* As a result we're given the average execution-time of a n x n matrix.
+* Repeat until 100 matrices were created.
 
 ### Results
 
