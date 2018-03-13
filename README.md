@@ -1,4 +1,4 @@
-## Title
+## Matrix Finder
 Created by: Fun Tacos (Tania Cao, Frank Chen, Maxwell Vale)
 
 ### Hypothesis
