@@ -16,7 +16,7 @@ The algorithm we've developed would execute the following...
 * Repeat until 100 matrices were created.
 
 ### Results
-![](MatrixFinder.PNG)
+![Data](MatrixFinder.png)
 
 ### Conclusion
 Our hypothesis is partially true. According to he data we've gathered, the execution-time increases overall, but between two adjacent matrices, the execution-time can go either way. 
